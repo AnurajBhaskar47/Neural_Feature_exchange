@@ -237,10 +237,10 @@ rad = st.sidebar.radio("Navigation",["Home","Image Generation"])
 
 if rad=="Home":
     st.title("Neural Style Transfer")
-    st.subheader("By Hardik Pahwa")
+    st.subheader("By Anuraj Bhaskar")
     st.markdown("""""",True)
     
-    st.image("Styled_hardik.jpg")
+    st.image("My_dog_picasso.jpg")
     
 elif rad=="Image Generation":
     st.write("""

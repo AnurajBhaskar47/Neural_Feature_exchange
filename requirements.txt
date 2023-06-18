@@ -1,0 +1,9 @@
+Pillow==9.4.0
+toml==0.10.2
+toolz==0.12.0
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tornado==6.2
+matplotlib
+matplotlib-inline
