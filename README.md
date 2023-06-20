@@ -1,4 +1,4 @@
-# CNN_Image
+# Neural_Feature_Exchange
 **Generates artistic images by transferring the style of one image onto another to give a composite &amp; stylized image.**
 
 Deployed Model : 
