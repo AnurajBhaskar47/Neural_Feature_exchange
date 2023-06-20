@@ -14,6 +14,8 @@ Style includes- Textures, colors, and the patterns.
 <li> Choose a Content Image I_c and a Style Image Is to generate a final image I_o. </li>
 <li> Loading a pre-trained convolutional neural network, in this case VGG-19</li><br>
   
+  ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/8abb160c-d543-4cb4-ae38-84348102b31e)
+  ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/adf0ea6b-805a-4d63-923a-3d61aed8b2dc)
 
 
  <br>
@@ -23,14 +25,15 @@ Style includes- Textures, colors, and the patterns.
   <li> The <b>Style loss function</b> measures the difference between the features of the generated image I_o and the features of the style image I_s. </li>
   <li>We get a total loss function by combining these two loss functions and taking their weighted sum as :</li><br>
   
-  
+  	![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/ee944104-2f81-44de-87bf-1f3ace33b6dc)
+
 </ul>
 </li>
 <li>The generated Image I_o is first initialized with the same pixels as the content image I_c. <br> During training, it is gradually optimized to the match the style of I_s, retaining only the content of I_c</li>
 <li>The whole process is repeated for many epochs until we end up with desired output I_o.</li>
 </ol>
 
-
+ ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/9c93b7fd-a403-4a83-8b0d-cc1bd3b1e15a) ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/3c6c5ecd-1c26-42ca-b6ac-e5623518e471)
 
 
 
