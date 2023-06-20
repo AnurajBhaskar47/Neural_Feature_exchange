@@ -27,6 +27,7 @@ Style includes- Textures, colors, and the patterns.
   
   	![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/ee944104-2f81-44de-87bf-1f3ace33b6dc)
 
+	<br>
 </ul>
 </li>
 <li>The generated Image I_o is first initialized with the same pixels as the content image I_c. <br> During training, it is gradually optimized to the match the style of I_s, retaining only the content of I_c</li>
@@ -34,6 +35,8 @@ Style includes- Textures, colors, and the patterns.
 </ol>
 
  ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/9c93b7fd-a403-4a83-8b0d-cc1bd3b1e15a) ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/3c6c5ecd-1c26-42ca-b6ac-e5623518e471)
+ 
+ ![image](https://github.com/AnurajBhaskar47/Neural_Feature_exchange/assets/97795939/4ea612d6-c8e4-4f23-a000-ea9cbc5a1e49)
 
 
 
