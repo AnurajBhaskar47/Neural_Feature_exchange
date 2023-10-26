@@ -1,7 +1,7 @@
 # Neural_Feature_Exchange
 **Generates artistic images by transferring the style of one image onto another to give a composite &amp; stylized image.**
 
-## [Deployed Model](https://huggingface.co/spaces/AnJ47/Neural_Feature_exchange)
+## [Deployed Model](https://anj47-neural-feature-exchange.hf.space/)
 
 ## What is Neural Style Transfer ?
 _In simple words it is an algorithm where we combine the style of one input image I_s with the content of another input image I_c to generate a new image
